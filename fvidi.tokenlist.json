@@ -1,0 +1,33 @@
+{
+  "name": "FVIDI Token List",
+  "version": {
+    "major": 1,
+    "minor": 4,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/fiwallets/tokens-list/master/fvidi/fvidi_logo.svg",
+  "keywords": [
+    "",
+    "tokens",
+    "refi"
+  ],
+  "timestamp": "2022-05-25T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "name": "TetherToken",
+      "address": "0x3c13cF934E718710fb13FE4b060325e4994AecdB",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1113,
+      "logoURI": "https://raw.githubusercontent.com/fiwallets/tokens-list/master/until/USDT.svg"
+    },
+    {
+      "name": "STAKE",
+      "address": "0x9dae279f806b68c38af04aa31b7a0f435e9874c7",
+      "symbol": "STAKE",
+      "decimals": 18,
+      "chainId": 1113,
+      "logoURI": "https://raw.githubusercontent.com/spiralsprotocol/spirals-brand/main/STAKE.svg"
+    }
+  ]
+}
